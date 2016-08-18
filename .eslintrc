@@ -1,0 +1,7 @@
+{
+  "extends": "airbnb",
+  "rules": {},
+  "globals": {
+    "__PREFIX_LINKS__": true,
+  },
+}
